@@ -1,6 +1,6 @@
 SOM204-EVB is evaluation board for the OLIMEX's SOM204 modules.
 
-The EVB board has all features exposed so it can be used as a template for creating own designs.
+The EVB board has all features exposed so it can be used as a template for creating own designs. The design was made with Eagle CAD version 4.16r2.
 
 Notable hardware revision changes:
 
